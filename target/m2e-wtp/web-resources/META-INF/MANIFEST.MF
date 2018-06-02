@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ranjith
+Implementation-Vendor-Id: com.caveofprogramming
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-app
+Created-By: Maven Integration for Eclipse
+
